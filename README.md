@@ -2,15 +2,20 @@
 
 <h2> 💫 About Me: </h2>
 
-🔭 I’m currently working on **Improving businesses and lives with AI/ML**
+**🔭 I’m currently working on:**
+Improving businesses and lives with AI/ML
 
-🌱 I’m currently learning **LLM, GANs and LangChain**
+**👯 I’m looking to collaborate on:**
+Generative AI projects
 
-👯 I’m looking to collaborate on **Generative AI projects**
+**🌱 I’m currently learning:**
+LLM, GANs and LangChain*
 
-💬 Ask me about **Machine Learning, Deep Learning, NLP, Generative AI, LLMs**
+**💬 Ask me about:**
+Machine Learning, Deep Learning, NLP, Generative AI, LLMs
 
-📫 How to reach me **singh97kishan@gmail.com**
+**📫 How to reach me:**
+singh97kishan@gmail.com
 
 <h2 align="left">Socials:</h2>
 <p align="left">
